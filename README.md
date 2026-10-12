@@ -1,4 +1,4 @@
-\# Data Structure \& Graph Analyzer
+# Data Structure & Graph Analyzer
 
 
 
@@ -6,7 +6,7 @@ A Java console-based application developed to demonstrate the implementation and
 
 
 
-\## Project Objective
+## Project Objective
 
 
 
@@ -14,7 +14,7 @@ The main objective of this project is to implement and analyze different data st
 
 
 
-\## Group Information
+## Group Information
 
 
 
@@ -24,7 +24,7 @@ The main objective of this project is to implement and analyze different data st
 
 
 
-\## Group Members and Contributions
+## Group Members and Contributions
 
 
 
@@ -42,11 +42,11 @@ The main objective of this project is to implement and analyze different data st
 
 
 
-\## Implemented Data Structures and Algorithms
+## Implemented Data Structures and Algorithms
 
 
 
-\### 1. Array
+### 1. Array
 
 
 
@@ -64,7 +64,7 @@ The main objective of this project is to implement and analyze different data st
 
 
 
-\### 2. Searching Algorithms
+### 2. Searching Algorithms
 
 
 
@@ -78,7 +78,7 @@ The main objective of this project is to implement and analyze different data st
 
 
 
-\### 3. Singly Linked List
+### 3. Singly Linked List
 
 
 
@@ -98,7 +98,7 @@ The main objective of this project is to implement and analyze different data st
 
 
 
-\### 4. Stack
+### 4. Stack
 
 
 
@@ -120,7 +120,7 @@ The stack follows the \*\*LIFO – Last In, First Out\*\* principle.
 
 
 
-\### 5. Circular Queue
+### 5. Circular Queue
 
 
 
@@ -144,7 +144,7 @@ The queue follows the \*\*FIFO – First In, First Out\*\* principle.
 
 
 
-\### 6. Graph
+### 6. Graph
 
 
 
@@ -172,7 +172,7 @@ The graph is implemented using an adjacency matrix.
 
 
 
-\### 7. Performance Comparison
+### 7. Performance Comparison
 
 
 
@@ -190,7 +190,7 @@ Execution time is measured in nanoseconds using `System.nanoTime()`.
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -268,7 +268,7 @@ CIT300-Data-Structure-Graph-Analyzer
 
 
 
-\## Main Menu
+## Main Menu
 
 
 
@@ -298,7 +298,7 @@ CIT300-Data-Structure-Graph-Analyzer
 
 
 
-\## How to Run the Project Using Eclipse
+## How to Run the Project Using Eclipse
 
 
 
@@ -332,7 +332,7 @@ src/analyzer/main/Main.java
 
 
 
-\## How to Clone the Repository
+## How to Clone the Repository
 
 
 
@@ -344,7 +344,7 @@ git clone https://github.com/23da2-1125-creator/CIT300-Data-Structure-Graph-Anal
 
 
 
-\## Git Branches
+## Git Branches
 
 
 
@@ -364,7 +364,7 @@ git clone https://github.com/23da2-1125-creator/CIT300-Data-Structure-Graph-Anal
 
 
 
-\## Sample Graph Output
+## Sample Graph Output
 
 
 
@@ -396,7 +396,7 @@ A -> B -> D -> C
 
 
 
-\## Testing Status
+## Testing Status
 
 
 
@@ -420,7 +420,7 @@ A -> B -> D -> C
 
 
 
-\## Technologies Used
+## Technologies Used
 
 
 
@@ -436,7 +436,7 @@ A -> B -> D -> C
 
 
 
-\## Repository
+## Repository
 
 
 
@@ -444,7 +444,7 @@ A -> B -> D -> C
 
 
 
-\## Conclusion
+## Conclusion
 
 
 
